@@ -1,0 +1,14 @@
+C:\Users\Hungr\source\repos\Counting From a File\bin\Debug\net8.0\Counting From a File.exe
+C:\Users\Hungr\source\repos\Counting From a File\bin\Debug\net8.0\Counting From a File.deps.json
+C:\Users\Hungr\source\repos\Counting From a File\bin\Debug\net8.0\Counting From a File.runtimeconfig.json
+C:\Users\Hungr\source\repos\Counting From a File\bin\Debug\net8.0\Counting From a File.dll
+C:\Users\Hungr\source\repos\Counting From a File\bin\Debug\net8.0\Counting From a File.pdb
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.AssemblyInfoInputs.cache
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.AssemblyInfo.cs
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.csproj.CoreCompileInputs.cache
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.dll
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\refint\Counting From a File.dll
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.pdb
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\Counting From a File.genruntimeconfig.cache
+C:\Users\Hungr\source\repos\Counting From a File\obj\Debug\net8.0\ref\Counting From a File.dll

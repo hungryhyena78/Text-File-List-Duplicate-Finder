@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Counting From a File/1.0.0": {
+        "runtime": {
+          "Counting From a File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Counting From a File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
